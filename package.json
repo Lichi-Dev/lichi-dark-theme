@@ -1,11 +1,25 @@
 {
-  "name": "lichi-dark",
-  "displayName": "lichi-dark",
+  "name": "Lichi-Dark-Theme",
+  "displayName": "Lichi Dark Theme",
   "description": "A dark theme for vs code to save your eyes.",
   "version": "0.0.1",
+  "publisher": "BonnyBoben",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lichi-Dev/lichi-dark-theme"
+  },
+  "icon": "images/logo.png",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "lichi theme",
+    "lichi dark theme",
+    "lichi dark",
+    "dark lichi"
+  ],
   "categories": [
     "Themes"
   ],
