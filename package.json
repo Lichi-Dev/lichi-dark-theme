@@ -1,0 +1,21 @@
+{
+  "name": "lichi-dark",
+  "displayName": "lichi-dark",
+  "description": "A dark theme for vs code to save your eyes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lichi Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lichi Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
